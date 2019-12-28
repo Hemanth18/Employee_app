@@ -1,24 +1,7 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## "Employee, App!"
 
-* Ruby version
+Welcome to my First application for the Ruby on Rails Tutorial.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the simple web app in Rails.That allow us to create, edit, view and delete employees.
